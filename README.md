@@ -11,7 +11,7 @@ Imagen en la red
 
 
 Imagen en un carpeta 
-![](imagenes/maxresdefault.jpg)
+![](imagenes/asnoxd.jpeg)
 
 
 [Enlace a youtube](https://www.youtube.com/)
@@ -19,7 +19,7 @@ Imagen en un carpeta
 
 
 ```
-<!-- Asi es como se pone un comentario -->
+<!-- Así se pone un comentario -->
 ```
 <!-- Este comentario no se mostrara -->
 Otro ejemplo de bloque de codigo
@@ -30,34 +30,34 @@ select * from users
 
 ### Apartado 5 (Listas y tablas)
 Listas  (Desordenadas)
-* Objeto 1
-* Objeto 2
-* Objeto 3
+* Ítem 1
+* Ítem 2
+* Ítem 3
 ---
 Listas anidades  (Desordenadas)
-* Objeto 1
-   * Objeto 1.2
-   * Objeto 1.2
-       * Objeto 1.2.1
-* Objeto 1
-   * Objeto 1
+* Ítem 1
+   * Ítem 1.2
+   * Ítem 1.2
+       * Ítem 1.2.1
+* Ítem 1
+   * Ítem 1
 ---
 Listas (Ordenadas) 
-1. Objeto
-2. Objeto
-3. Objeto
+1. Ítem
+2. Ítem
+3. Ítem
 
 
 ---
 Listas anidadas (Ordenadas)
 
 
-1. Objeto 
-   1.1 Objeto
-2. Objeto 
-   2.1 Objeto
+1. Item 
+   1.1 Item
+2. Item 
+   2.1 Item
 ---
 Tablas 
-| Objeto A.1 | Objeto B.1 | Objeto C.1 |
-|------------|------------|------------|
-| Objeto A.2 | Objeto B.2 | Objeto C.2 |
+| Item A.1 | Item B.1 | Item C.1 |
+|----------|----------|----------|
+| Item A.2 | Item B.2 | Item C.2 |
